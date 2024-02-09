@@ -8,6 +8,6 @@ deliver the best productive results.
 I'm currently open to collaborations, contributions to open source and job opportunities. 
 
 ## Skills and Experience
+* 🖥 Flutter & Dart
 * 💻 HTML, CSS
 * 🖥 TailwindCSS
-* 🖥 Flutter & Dart
