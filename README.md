@@ -9,5 +9,5 @@ I'm currently open to collaborations, contributions to open source and job oppor
 
 ## Skills and Experience
 * 🖥 Flutter & Dart
-* 💻 HTML, CSS
-* 🖥 TailwindCSS
+* 💻 .NET
+* 🖥 React
